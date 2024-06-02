@@ -1,0 +1,16 @@
+com\Usuario\main\entities\Personal.class
+com\Usuario\main\controllers\personalController.class
+com\Usuario\main\exceptions\ResourceNotFoundException.class
+com\Usuario\main\services\Personal\IPersonalService.class
+com\Usuario\main\entities\Usuario$UsuarioBuilder.class
+com\Usuario\main\configuration\SecurityConfig.class
+com\Usuario\main\entities\Usuario.class
+com\Usuario\main\repositories\IPersonalRepository.class
+com\Usuario\main\controllers\usuarioController.class
+com\Usuario\main\services\Usuario\IUsuarioService.class
+com\Usuario\main\MainApplication.class
+com\Usuario\main\services\Usuario\UsuarioService.class
+com\Usuario\main\services\Personal\PersonalService.class
+com\Usuario\main\configuration\CorsConfig.class
+com\Usuario\main\repositories\IUsuarioRepository.class
+com\Usuario\main\entities\Personal$PersonalBuilder.class
